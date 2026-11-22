@@ -1,28 +1,11 @@
-# CoRE-Rulebook
-CoREに関係するルールブック、および各種マニュアルを公開するリポジトリです。現在下記のルールブック・マニュアルを公開中です。
+# 【アーカイブ】CoRE-Rulebook
+2026シーズンまで使用していた、CoREに関係するルールブック、および各種マニュアルのアーカイブを公開するリポジトリです。現在下記のルールブック・マニュアルアーカイブを公開中です。
+最新のルールは[CoREルールナビ](https://core.scramble-robot.org/rule/core-common-rulenavi/)をご覧ください。
 
 - [core_1_rulebook.md](https://github.com/scramble-robot/CoRE-Rulebook/blob/main/core_1_rulebook.md)：CoRE1部リーグルールブック
 - [core_2_rulebook.pdf](https://github.com/scramble-robot/CoRE-Rulebook/blob/main/core_2_rulebook.pdf)：CoRE2部リーグルールブック
 - [core_common_rulebook.md](https://github.com/scramble-robot/CoRE-Rulebook/blob/main/core_common_rulebook.md)：CoREリーグ共通ルールブック
 - [core_gamesystem_rulebook.md](https://github.com/scramble-robot/CoRE-Rulebook/blob/main/core_gamesystem_rulebook.md)：CoRE競技システムルールブック
-
-## CoREとは
-The Championship of Robotics Engineers、通称CoRE（コア）とは次世代のエンジニア”挑戦的共創人材”を育成するための、ロボット競技を核としたエンジニア選手権です。10歳以上であれば年齢制限無しで参加することができ、生徒・学生から現役エンジニア、また初心者でも楽しみながらエンジニアリングとチームワークを総合的に学べる機会を提供します。CoRE-1・CoRE-2の2つのリーグがあり、参加者の経験に合わせて参加するリーグを選択することができます。
-
-[![CoRE競技の様子](https://img.youtube.com/vi/CRIbSfRB23k/0.jpg)](https://youtu.be/CRIbSfRB23k?si=FN2N32w1-zPsNWkF)
-
-## ルール概要
-CoREのロボット競技は、協力と戦略が鍵となる同盟バトル方式です。負けたチームが勝ったチームに加わり、協力して次の試合に挑むこの形式では、連携と交渉力が必要不可欠。チーム間の駆け引きやルールメイキングも重要な要素です。さらにロボットに搭載したカメラの映像を見て、ロボット目線で操縦してフライングディスクを当て合うエンターテインメント性とゲーム性の高い競技設計が特徴で、観戦者にも参加の意欲をかき立てます。チームワークと技術が限られた視界を補い、エキサイティングな対戦を展開します。
-
-[![競技ルール基本編](https://img.youtube.com/vi/Ev4a87VXtDs/0.jpg)](https://youtu.be/Ev4a87VXtDs)
-
-## 直近の選手権の様子
-### CoRE-1: 2025決勝戦
-[![CoRE_1_2025](https://img.youtube.com/vi/vLXvpPt3QME/0.jpg)](https://www.youtube.com/watch?v=vLXvpPt3QME)
-
-### CoRE-2
-- [CoRE-2 京都カップ2025決勝戦](https://www.youtube.com/watch?v=iCIrrDFLPLI)
-- [CoRE-2 柏の葉カップ2025決勝戦](https://www.youtube.com/watch?v=Zv_Il6qW9os)
 
 
 ## 各種CAD
@@ -51,15 +34,9 @@ CoREのロボット競技は、協力と戦略が鍵となる同盟バトル方�
 - [本番用HDMIトランスミッタ①（HACCSOON CineView SE）](https://a360.co/4140Osl)
 - [本番用HDMIトランスミッタ②（ACCSOON CineEye 2S Pro）](https://a360.co/4k95l5f)
 
-# 本Gitリポジトリの目的
-更新時の差分を分かりやすくすることを目的として、ルールブックをGitで管理・共有しています。将来的には参加選手の皆さまからの更新（プッシュ、マージ、プルリクエスト）についても受け入れる予定ですが、現在検討中のため閲覧のみに留めてください.  
-
-# ホームページ・SNS
-[CoREホームページ](https://core.scramble-robot.org/)  
-[公式X（Twitter）](https://x.com/Scramble_CoRE)  
-[Youtubeチャンネル](https://www.youtube.com/@scramble-robot)
-
 #  更新履歴
+## 2026/11/22
+- アーカイブ版として再公開
 ## 2026/02/19
 - CoRE-1ルールブックv26.0.1の公開
     - ルールメイキングの結果を反映
